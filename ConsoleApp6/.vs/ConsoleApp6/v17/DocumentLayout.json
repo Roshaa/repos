@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ricar\\source\\repos\\ConsoleApp6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A9A14C-2E0F-469D-8F9A-2E7C589B4B9B}|ConsoleApp6\\ConsoleApp6.vbproj|c:\\users\\ricar\\source\\repos\\consoleapp6\\consoleapp6\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F2A9A14C-2E0F-469D-8F9A-2E7C589B4B9B}|ConsoleApp6\\ConsoleApp6.vbproj|solutionrelative:consoleapp6\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 4122,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Module1.vb",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Module1.vb",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Module1.vb",
+              "RelativeToolTip": "ConsoleApp6\\Module1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-27T16:18:24.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2239,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

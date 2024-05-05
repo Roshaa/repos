@@ -1,0 +1,11 @@
+C:\Users\ricar\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+C:\Users\ricar\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+C:\Users\ricar\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+C:\Users\ricar\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.xml
+C:\Users\ricar\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.vbproj.AssemblyReference.cache
+C:\Users\ricar\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.Resources.resources
+C:\Users\ricar\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.vbproj.GenerateResource.cache
+C:\Users\ricar\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.vbproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+C:\Users\ricar\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.xml
+C:\Users\ricar\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.pdb

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ricar\\source\\repos\\WebPageDevelopment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9547362-B983-4ADC-BEAF-6E0FF1885362}|Solution Items{E9547362-B983-4ADC-BEAF-6E0FF1885362}|C:\\Users\\ricar\\source\\repos\\WebPageDevelopment\\HTMLPage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9547362-B983-4ADC-BEAF-6E0FF1885362}|Solution Items{E9547362-B983-4ADC-BEAF-6E0FF1885362}|solutionrelative:HTMLPage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9547362-B983-4ADC-BEAF-6E0FF1885362}|Solution Items{E9547362-B983-4ADC-BEAF-6E0FF1885362}|C:\\Users\\ricar\\source\\repos\\WebPageDevelopment\\Script1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E9547362-B983-4ADC-BEAF-6E0FF1885362}|Solution Items{E9547362-B983-4ADC-BEAF-6E0FF1885362}|solutionrelative:Script1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9547362-B983-4ADC-BEAF-6E0FF1885362}|Solution Items{E9547362-B983-4ADC-BEAF-6E0FF1885362}|C:\\Users\\ricar\\source\\repos\\WebPageDevelopment\\css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E9547362-B983-4ADC-BEAF-6E0FF1885362}|Solution Items{E9547362-B983-4ADC-BEAF-6E0FF1885362}|solutionrelative:css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 728,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 5534,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HTMLPage1.html",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\WebPageDevelopment\\HTMLPage1.html",
+              "RelativeDocumentMoniker": "HTMLPage1.html",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\WebPageDevelopment\\HTMLPage1.html",
+              "RelativeToolTip": "HTMLPage1.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-05T19:31:53.021Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "css.css",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\WebPageDevelopment\\css.css",
+              "RelativeDocumentMoniker": "css.css",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\WebPageDevelopment\\css.css",
+              "RelativeToolTip": "css.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-05T19:35:34.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Script1.js",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\WebPageDevelopment\\Script1.js",
+              "RelativeDocumentMoniker": "Script1.js",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\WebPageDevelopment\\Script1.js",
+              "RelativeToolTip": "Script1.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-05T19:38:55.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1904,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

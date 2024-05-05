@@ -1,0 +1,11 @@
+C:\Users\ricar\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\ricar\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\ricar\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\ricar\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.xml
+C:\Users\ricar\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.vbproj.AssemblyReference.cache
+C:\Users\ricar\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.Resources.resources
+C:\Users\ricar\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.vbproj.GenerateResource.cache
+C:\Users\ricar\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.vbproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\ricar\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.xml
+C:\Users\ricar\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
