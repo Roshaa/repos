@@ -31,9 +31,13 @@
           ]
         },
         {
-          "DockedWidth": 5534,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 1904,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -58,8 +62,7 @@
               "RelativeToolTip": "css.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-05T19:35:34.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T19:35:34.026Z"
             },
             {
               "$type": "Document",
@@ -71,18 +74,7 @@
               "RelativeToolTip": "Script1.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-05T19:38:55.106Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1904,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "WhenOpened": "2024-05-05T19:38:55.106Z"
             }
           ]
         }
