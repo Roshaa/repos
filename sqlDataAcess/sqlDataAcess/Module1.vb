@@ -177,6 +177,7 @@ VALUES (@inputaddressline1, @inputaddressline2, @inputcity, @inputstateprovincei
     'AddressInput is a structure that holds the input values which is global to the module
 
     Function GetAddressInput() As AddressInput
+
         Console.WriteLine("Enter the new AddressLine1")
         Dim newaddressline1 As String = Console.ReadLine()
         Console.WriteLine("Enter the new AddressLine2")
